@@ -11,8 +11,6 @@
 > failures using IoT sensor data. Features a 5-page interactive Streamlit dashboard,
 > SHAP explainability, a leak-free ETL pipeline, and production-ready ML workflows.
 
-![Dashboard Preview](artifacts/plots/model_comparison.png)
-
 ---
 
 ##  Table of Contents
@@ -354,6 +352,7 @@ Four tabs: Performance (confusion matrices, CV scores with error bars), Feature 
 | Data Processing | Pandas, NumPy, SciPy |
 
 ---
+
 
 
 *Report generated: March 10, 2026 | PredictiveGuard™*
